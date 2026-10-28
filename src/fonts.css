@@ -1,0 +1,6 @@
+:root { --font-general: 'General Sans'; --font-onest: 'Onest'; --font-mono: 'SFMono-Regular', Consolas, monospace; --font-script: 'Playwrite US Trad'; }
+@font-face { font-family: 'General Sans'; font-style: normal; font-weight: 400; font-display: swap; src: url('./assets/fonts/general-sans-400.woff2') format('woff2'); }
+@font-face { font-family: 'Onest'; font-style: normal; font-weight: 400; font-display: swap; src: url('./assets/fonts/onest-400.ttf') format('truetype'); }
+@font-face { font-family: 'Onest'; font-style: normal; font-weight: 500; font-display: swap; src: url('./assets/fonts/onest-500.ttf') format('truetype'); }
+@font-face { font-family: 'Onest'; font-style: normal; font-weight: 600; font-display: swap; src: url('./assets/fonts/onest-600.ttf') format('truetype'); }
+@font-face { font-family: 'Playwrite US Trad'; font-style: normal; font-weight: 200; font-display: swap; src: url('./assets/fonts/playwrite-us-trad-200.ttf') format('truetype'); }

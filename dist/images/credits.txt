@@ -1,0 +1,23 @@
+SAMPLE GALLERY IMAGES — not photographs by the portfolio owner.
+These are replaceable layout examples downloaded from Unsplash on 2026-10-28.
+The images are free to use under the Unsplash License: https://unsplash.com/license
+
+1. gallery-mountains.jpg
+Photographer: Nunzio Guerrera
+Description: Bow Lake at sunrise, Banff National Park, Canada.
+Source: https://unsplash.com/photos/a-mountain-is-reflected-in-the-still-water-of-a-lake-9HnW4qYFE0o
+Image: https://images.unsplash.com/photo-1677432658720-3d84f9d657b4?auto=format&fit=crop&fm=jpg&q=80&w=1600
+
+2. gallery-architecture.jpg
+Photographer: Benjamin Behre
+Description: Oslo Opera House facade against the sky.
+Source: https://unsplash.com/photos/low-angle-photography-of-white-concrete-building-under-a-blue-sky-gmjF2RlNB8g
+Image: https://images.unsplash.com/photo-1569266926771-e324d6b737b0?auto=format&fit=crop&fm=jpg&q=80&w=1600
+
+3. gallery-mist.jpg
+Photographer: Ju On
+Description: Misty hillside and fields in morning light.
+Source: https://unsplash.com/photos/misty-forest-during-daytime-DyCAjDq2Bpg
+Image: https://images.unsplash.com/photo-1462717289430-9046edb3d037?auto=format&fit=crop&fm=jpg&q=80&w=1600
+
+Carousel titles are original editorial placeholders for this prototype.

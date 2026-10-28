@@ -1,0 +1,1 @@
+<span class="sp-disc glass"><svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M15 24h18m-7-7 7 7-7 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
